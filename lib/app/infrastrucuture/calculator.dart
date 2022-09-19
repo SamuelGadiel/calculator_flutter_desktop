@@ -3,7 +3,7 @@ class Calculator {
 
   static num add(num a, num b) => a + b;
 
-  static num sub(num a, num b) => a = b;
+  static num sub(num a, num b) => a - b;
 
   static num mult(num a, num b) => a * b;
 
